@@ -1,0 +1,34 @@
+canvas {
+  display: block;
+}
+
+body{
+  background-color:rgb(197, 248, 255) ;
+  font-size: 20px;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  width: 80%;
+  max-width: 7000px;
+  margin: 0 auto
+  
+}
+.container{
+  width: 80%;
+  max-width: 700px;
+  margin: 0 auto; 
+}
+  footer{
+    background-color rgb(197, 248, 255);
+    color: rgb(197, 248, 255);
+    padding: 1em; /* EM square */
+    max-resolution: top 2px;em; 
+    Font-size:40px;
+    margin-top: 2em;
+  
+    }
+
+footer a{
+    color: rgb(197, 248, 255);
+    font-weight: bolder;
+    text-decoration: underline;
+    cursor: crosshair; 
+  }
